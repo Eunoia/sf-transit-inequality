@@ -1,0 +1,174 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+1-90,1,"Bayfair Bart- Dtn. Berkeley",,3
+1R-90,1R,"Univ/Calif - BYBA",,3
+7-90,7,"Del Norte BART - Berkeley BART",,3
+11-90,11,"Piedmont - Fruitvale Ave.",,3
+12-90,12,"Oxford & Addison - 10 WASHINGTON",,3
+14-90,14,"11th Jefferson - Fruitvale Bart",,3
+18-90,18,"San Pablo & Marin - Moraga & Mountain",,3
+20-90,20,"Fruitvale ave - Alameda - 11th Jefferson",,3
+21-90,21,"Fruitvale ave - Alameda - Oakland Airport",,3
+22-90,22,"Hayward Bart -South Hayward Bart - Chabot",,3
+25-90,25,"El Cerrito BART-Cntr & Shatt-UC Village",,3
+26-90,26,"Emeryville/14th Bdwy/lLakeshore",,3
+31-90,31,"Alameda Point/ W. Oakland/MACA BART",,3
+32-90,32,"Hayward Bart-C.V. Bart-Hwd. Bart-Cherryland",,3
+37-90,37,"HWD. BART-WHITMAN-SO. HWD. BART",,3
+39-90,39,"Fruitvale Bart - Skyline High School",,3
+40-90,40,"Dtn. Oakland - Bayfair Bart",,3
+45-90,45,"Eastmont T. C. - Foothill Sq.",,3
+46-90,46,"Coliseum Bart - Knowland Zoo",,3
+47-90,47,"Fruitvale Bart - Maxwell Park",,3
+48-90,48,"Bayfair BART- Castro Valley- Hayward bart",,3
+49-90,49,"Rockridge Bart / Dwight S.P.",,3
+51A-90,51A,"RockRidge to FBBA",,3
+51B-90,51B,"RockRidge - 3RUN",,3
+52-90,52,"U.C. Village - U.C. Campus",,3
+54-90,54,"Fruitvale BART - Merritt College",,3
+57-90,57,"40th San Pablo Ave - Eastmont T.C.- Foothill Sq",,3
+58L-90,58L,"Eastmont T.C. - Oakland Amtrak",,3
+60-90,60,"CSUEB / HAYWARD BART SHUTTLE",,3
+62-90,62,"West  Oakland - Fruitvale Bart",,3
+65-90,65,"Spruce St. - Euclid Ave.",,3
+67-90,67,"Berkeley Bart - Grizzly Peak Blvd.",,3
+68-90,68,"South Hwd. BART-Huntwood-Union Landing",,3
+70-90,70,"Richmond Pkwy. TC. - Richmond BART",,3
+71-90,71,"Richmond Pkwy TC - El Cerrito Plaza BART",,3
+72-90,72,"Richmond - Downtown Oakland",,3
+72M-90,72M,"Richmond - Downtown Oakland",,3
+72R-90,72R,"San Pablo Rapid BUS",,3
+73-90,73,"Eastmont T.C. - Oakland Airport",,3
+74-90,74,"CCC/Richmond BART/Ford Pt.",,3
+75-90,75,"Bayfair Bart-Washington Manor-S. L. Bart",,3
+76-90,76,"Hilltop Mall - CCC - del Norte BART",,3
+83-90,83,"Hayward BART - S. Hayward BART",,3
+85-90,85,"San Leandro BART - Hayward BART",,3
+86-90,86,"Hayward BART - S. Hayward BART",,3
+88-90,88,"Berkeley BART - Downtown Oakland",,3
+89-90,89,"San Leandro Bart-S. L. Marina-Bayfair Bart",,3
+93-90,93,"Hayward Bart-Bayfair Bart-San Lorenzo",,3
+94-90,94,"Hayward Bart-Hayward Hills",,3
+95-90,95,"Kelly Hill - Hayward BART",,3
+97-90,97,"Union City BART - Hesperian Blvd.",,3
+98-90,98,"Coliseum Bart - 98th Ave.",,3
+99-90,99,"Bayfair Bart - Hwd.BART- UC  Bart - Fmt Bart",,3
+210-90,210,"Union Landing - Frmt. Blvd. - Ohlone",,3
+212-90,212,"Fremont BART-Newpark Mall-Pacific Commons",,3
+215-90,215,"Fremont BART-Mission-Warm Springs-Industrial Area",,3
+216-90,216,"U.C. BART- Niles -Fremont BART-Ohlone Newark",,3
+217-90,217,"Frmt BART - Mission - Milpitas - Alder",,3
+232-90,232,"Fremont BART-U.C. BART-Mission-Ohlone Newark",,3
+239-90,239,"Fremont BART-Warm Springs",,3
+242-90,242,"Fremont BART-Stevenson-Ohlone New. Mowrry",,3
+251-90,251,"Fremont BART-Mowry-Thornton",,3
+264-90,264,"U.C. BART-Fremont Blvd.--NewPark Mall-Ohlone New.",,3
+275-90,275,"U.C.BART- Thornton- Lido Faire",,3
+314-90,314,"Alameda Senior Shuttle",,3
+332-90,332,"Frmt. BART - UC BART - N.Park (SS ONLY)",,3
+333-90,333,"Evening Flex Route",,3
+339-90,339,"Fruitvale Bart - Chabot Observatory",,3
+345-90,345,"FREMONT- UC BART-New. Blvd.-Newpark Mall (SS Only)",,3
+350-90,350,"Frmt. BART-Pacific Commons- Stevenson (SS Only)",,3
+356-90,356,"Alameda Senior Shuttle",,3
+376-90,376,"North Richmond Shuttle",,3
+386-90,386,"Hayw. BART -  Winton (SS ONLY)",,3
+391-90,391,"Southland Mall - Hayward Villa (Tue & Fri Only)",,3
+604-90,604,"Berkeley - Oakland - H.Royce School",,3
+605-90,605,"Berkeley - Oakland - H.Royce School",,3
+606-90,606,"Berkeley - Oakland - H.Royce School",,3
+607-90,607,"Richmond H.S. - Point Richmond",,3
+609-90,609,"Richmond H.S. - Parchester Village",,3
+611-90,611,"Westlake Middle School/ 14th Foothill Blvd",,3
+614-90,614,"85th Edes - Castlemont H.S.",,3
+618-90,618,"Montera J.H.S. - Skyline High School",,3
+620-90,620,"Cedar Blvd.",,3
+621-90,621,"Fremont - American H.S.",,3
+623-90,623,"Horner JH - P. Padre Pkwy & Mission",,3
+624-90,624,"Paseo Padre - Mission S.J. High School",,3
+625-90,625,"Centerville JHS - Niles & El Portal",,3
+626-90,626,"Newark Blvd.",,3
+627-90,627,"Cedar Blvd. - Haley St.",,3
+628-90,628,"Cedar Blvd.",,3
+629-90,629,"Cherry St.",,3
+631-90,631,"Alameda - Encinal High School",,3
+634-90,634,"Oakland Technical - Downtown Oakland",,3
+638-90,638,"73rd International Blvd - Skyline High",,3
+640-90,640,"Fremont High School - Eastmont T.C.",,3
+641-90,641,"Fremont High- Frick Middle - 106th Bancroft",,3
+642-90,642,"Montclair/Montera",,3
+643-90,643,"Skyline High - Fruitvale & Montana",,3
+646-90,646,"Montera -Skyline High- Coliseum Bart",,3
+648-90,648,"Fruitvale Bart - Skyline High",,3
+649-90,649,"Skyline High - Grass Valley",,3
+650-90,650,"Skyline High - Montera Middle School",,3
+651-90,651,"Holy Names",,3
+652-90,652,"Skyline High - 90th. & International Blvd",,3
+653-90,653,"Montera J.H.S. - Skyline High School",,3
+654-90,654,"Fruitvale Bart - Skyline High",,3
+655-90,655,"Fruitvale Bart - Montera Middle School",,3
+657-90,657,"Oakland Tech. High - Coliseum Bart",,3
+658-90,658,"East Oakland - Skyline",,3
+660-90,660,"Montera Jr. High School",,3
+662-90,662,"Skyline High School",,3
+663-90,663,"Ferry Term. - Island High - Broadway Blanding",,3
+664-90,664,"Macdonald Ave.\Richmond Pkwy.-DeJean M.S.",,3
+667-90,667,"N.Richmond - Rich. BART - El Cerrito",,3
+668-90,668,"21st & Macdonald Ave. - El Cerrito",,3
+669-90,669,"CCC - DeAnza HS/Juan Crespi MS",,3
+670-90,670,"CCC - De Anza HS",,3
+671-90,671,"CCC - De Anza HS/Juan Crespi MS",,3
+672-90,672,"N.Richmond - San Pablo - El Sobrante",,3
+673-90,673,"Helms J.H.S. - RichPkwy & 21st/Macd",,3
+674-90,674,"Richmond BART- De Anza HS",,3
+675-90,675,"21st & Macdonald Ave. - El Cerrito",,3
+676-90,676,"N.Richmond - San Pablo - El Sobrante",,3
+677-90,677,"Helms J.H.S. - 21st & Macdonald Ave.",,3
+679-90,679,"Juan Crespi Jr. & DeAnza High Schools",,3
+680-90,680,"E. Oakland - Bishop O'Dowd H.S.",,3
+681-90,681,"Rich Pkwy & W.Macd - DeJean M.S.",,3
+682-90,682,"E. Oakland - Bishop O'Dowd H.S.",,3
+684-90,684,"Rich. BART /El Cerrito HS",,3
+685-90,685,"Juan Crespi MS - Richmond BART",,3
+686-90,686,"Kennedy Hi - Richmond BART",,3
+688-90,688,"ST. MARYS HIGH SCHOOL",,3
+696-90,696,"Oakland Tech H.S./Skyline/Redwood",,3
+800-90,800,"OWL-DTN.OAKLAND/RICHMOND",,3
+801-90,801,"OWL-DTN.OAKLAND/FREMONT BART",,3
+802-90,802,"OWL- Berkeley-Emeryville/Dnt-Oak",,3
+805-90,805,"OWL-Dtn. Oakland - Oakland  Airport",,3
+840-90,840,"OWL-Dtn. Oakland - Eastmont T. C.",,3
+851-90,851,"OWL - ALAMEDA/DNT BERK",,3
+B-90,B,"San Francisco - Trestle Glen",,3
+BSD-90,BSD,"BROADWAY SHUTTLE DAY",,3
+BSN-90,BSN,"BROADWAY SHUTTLE NIGHT",,3
+C-90,C,"San Francisco - Piedmont",,3
+CB-90,CB,"San Francisco - Montclair",,3
+DA-90,DA,"Dumbarton Eppress-Sun Micro-Oracle",,3
+DB-90,DB,"Dumbarton Express",,3
+DB1-90,DB1,"Dumbarton Express",,3
+E-90,E,"San Francisco - Claremont -Parkwood",,3
+F-90,F,"San Francisco - Berkeley",,3
+FS-90,FS,"San Francisco - Berkeley",,3
+G-90,G,"San Francisco - El Cerrito",,3
+H-90,H,"San Francisco - Richmond",,3
+J-90,J,"SF- EMERYVILLE - N.BERK BART",,3
+L-90,L,"San Francisco - El Sobrante",,3
+LA-90,LA,"San Francisco - El Sobrante",,3
+LC-90,LC,"SF/Hilltop Park & Ride (L/LA Sweeper)",,3
+M-90,M,"Hayward BART- Hillsdale Mall- Oracle",,3
+NL-90,NL,"San Francisco - Eastmont T.C.",,3
+NX-90,NX,"East Oakland - San Francisco",,3
+NX1-90,NX1,"San Francisco - East Oakland",,3
+NX2-90,NX2,"San Francisco - East Oakland",,3
+NX3-90,NX3,"San Francisco - San Leandro",,3
+NX4-90,NX4,"San Francisco - Castro Valley",,3
+NXC-90,NXC,"SF - Oakland (N/NX Sweeper)",,3
+O-90,O,"San Francisco - Alameda - Fruitvale Bart",,3
+OX-90,OX,"San Francisco - Alameda - Bay Farm Is.",,3
+P-90,P,"San Francisco - Piedmont",,3
+S-90,S,"San Francisco - San Lorenzo- Hayward",,3
+SB-90,SB,"San Francisco - Hayward - Newark",,3
+U-90,U,"Frmt. BART- Stanford University",,3
+V-90,V,"San Francisco - Montclair",,3
+W-90,W,"San Francisco - Alameda",,3
+Z-90,Z,"San Francisco - Albany",,3
