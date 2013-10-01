@@ -231,3 +231,90 @@ div#map {
 #share .fb-like {
     margin-right: 15px;
 }
+
+
+.actransit-routes .btn-small{
+    padding: 2px 1px;
+}
+.actransit-routes .actransit-line{
+    float: left;
+}
+.actransit-routes .actransit-line a{
+    color: white;
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    height: 19px;
+    width: 27px;
+    line-height: 20px;
+    margin-right: 3px;
+    margin-left: 0px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.actransit-routes .actransit-line .line1R{
+    border-radius: 12px;
+    /*text-shadow: 0px 0px 2px rgba(255, 0, 0, 0.9);*/
+    -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: red;
+    border: rgb(89,137,198) 2px solid;
+    color: rgb(89,137,198);
+    background: white;
+}
+.actransit-routes .actransit-line .line72R{
+    color: rgb(120,179,170);
+    background:white;
+    border: rgb(120,179,170) 2px solid;
+    border-radius: 12px;
+/*    text-shadow:
+       -1px -1px 0 rgba(255, 0, 0, 0.9),
+        1px -1px 0 rgba(255, 0, 0, 0.9),
+        -1px 1px 0 rgba(255, 0, 0, 0.9),
+         1px 1px 0 rgba(255, 0, 0, 0.9);*/
+    -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: red;
+}
+.actransit-routes .actransit-line .lineC{
+    border: 2px solid rgb(214,158,170);
+    color: rgb(214,158,170);
+    background: white;
+}
+.actransit-routes .actransit-line .lineU{
+    border: 2px solid rgb(133,190,210);
+    color: rgb(133,190,210);
+    background: white;
+}
+.actransit-routes .actransit-line .line800{
+    background-color: rgb(191,200,84);
+    color:white;
+    padding:1px 1px 1px 1px;
+    border:rgb(140,136,122) 1px solid;
+}
+/*******
+*** Want to see a super cool 800 line shield? Then uncomment this CSS.
+***
+.actransit-routes .actransit-line .line800{
+    line-height: 0px;
+}
+.actransit-routes .actransit-line .line800:before,
+.actransit-routes .actransit-line .line800:after{
+    content: ' ';
+    display: block;
+    background-color: white;
+    position: relative;
+    border: 1px solid black;
+    border-radius: 40px;
+    width: 16px;
+    height: 16px;
+    background: white;
+    border: white;
+}
+.actransit-routes .actransit-line .line800:before{
+    top: -13px;
+}
+.actransit-routes .actransit-line .line800:after{
+    top: -34px;
+    left: 11px;
+}
+*/

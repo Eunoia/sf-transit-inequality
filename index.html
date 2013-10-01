@@ -98,6 +98,38 @@
             
           </div>
         </div>
+        <!-- AC Transit -->
+        <h5 style="margin-top: 0; margin-bottom: 5px;">AC Transit</h5>
+        <div class="agency-container">
+          <div class="btn-group dropdown actransit-routes">
+            <div class="actransit-line">
+              <a href="#" data-ng-click="displayRoute('ACTransit', '1R-90', {'color_override':'rgb(89,137,198)'})" class="line1R">1R</a>
+            </div>
+            <div class="actransit-line">
+              <a href="#" data-ng-click="displayRoute('ACTransit', '72R-90', {'color_override':'rgb(120,179,170)'})" class="line72R">72R</a>
+            </div>
+            <div class="actransit-line">
+              <a href="#" data-ng-click="displayRoute('ACTransit', 'C-90', {'color_override':'rgb(214,158,170)'})" class="lineC">C</a>
+            </div>
+            <div class="actransit-line">
+              <a href="#" data-ng-click="displayRoute('ACTransit', 'U-90', {'color_override':'rgb(133,190,210)'})" class="lineU">U</a>
+            </div>
+            <div class="actransit-line">
+              <a href="#" data-ng-click="displayRoute('ACTransit', '800-90', {'color_override':'rgb(191,200,84)'})" class="line800">800</a>
+            </div>
+            <a id="actransit-more" class="btn btn-link btn-small" data-toggle="dropdown" data-target="#" href="/">
+             More <b class="caret"></b>
+            </a>
+
+            <ul class="dropdown-menu" role="menu" aria-labelledby="actransit-more">
+              <li data-ng-repeat="(routeId, route) in (agencies['ACTransit'].routes | orderBy:'routeId')">
+                <a href="#" data-ng-click="displayRoute('ACTransit', routeId)" data-ng-hide="route.important">
+                  {{routeId.split("-")[0]}} - {{route.name}}
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
 
         <!-- BART -->
         <h5>BART</h5>
